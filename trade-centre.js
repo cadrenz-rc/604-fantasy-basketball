@@ -3,7 +3,7 @@ import { getAuth, onAuthStateChanged, signInWithEmailAndPassword, signOut, sendP
 import { getFirestore, doc, collection, onSnapshot, addDoc, updateDoc, deleteDoc, serverTimestamp } from 'https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js';
 import { firebaseConfig } from './firebase-config.js';
 const $=id=>document.getElementById(id);
-const commissioner='JRUOUVmttvhjIPTNpIbcVQ5sVRJ2';
+const commissioner='rv8JxmfSl6gKkefiNo3EGpMiY1U2';
 const app=initializeApp(firebaseConfig),auth=getAuth(app),db=getFirestore(app);
 let user=null,items=[];
 const admin=()=>user?.uid===commissioner;
