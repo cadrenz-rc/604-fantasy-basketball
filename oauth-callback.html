@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<meta name="referrer" content="no-referrer">
+<title>Yahoo Authorization | The 604 Fantasy Draft</title>
+<style>
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#0d1424;color:#f4f6fb;font-family:system-ui,-apple-system,Segoe UI,sans-serif;min-height:100vh;display:grid;place-items:center;padding:24px}main{width:min(100%,580px);border:1px solid #31415d;border-radius:18px;padding:30px;background:#17223a;box-shadow:0 18px 60px #0005}h1{margin:8px 0 12px;font-size:clamp(24px,5vw,34px)}.eyebrow{font-size:12px;letter-spacing:.14em;color:#e4bd68;font-weight:700}p{line-height:1.6;color:#cbd4e4}.status{padding:14px;border-radius:10px;background:#22304a;margin:20px 0}a{color:#f0ca79}small{color:#aebbd0}
+</style>
+</head>
+<body><main>
+<div class="eyebrow">THE 604 FANTASY DRAFT</div>
+<h1>Yahoo authorization</h1>
+<div class="status" id="status" role="status">Checking authorization response…</div>
+<p id="explanation">This callback page is part of the Yahoo Fantasy integration setup.</p>
+<p><strong>Security:</strong> Never share your Yahoo authorization code, client secret, or refresh token. This page does not send the authorization response to a server or store it.</p>
+<p><small>Automated transaction syncing will require a separate secure token exchange and scheduled sync service.</small></p>
+<a href="./index.html">Return to The 604 Fantasy Draft</a>
+</main>
+<script>
+(function(){
+  const params=new URLSearchParams(location.search);
+  const status=document.getElementById('status');
+  const explanation=document.getElementById('explanation');
+  if(params.has('error')){
+    status.textContent='Yahoo did not complete authorization.';
+    explanation.textContent='Return to the application setup and review the authorization request. No login details are needed here.';
+  } else if(params.has('code')){
+    status.textContent='Yahoo returned an authorization response.';
+    explanation.textContent='The callback URL is working. The authorization code has not been exchanged for access tokens. Do not share this URL or its query parameters; the next step requires a secure server-side token exchange.';
+  } else {
+    status.textContent='Callback page is ready.';
+    explanation.textContent='This is the registered HTTPS destination for Yahoo authorization. It does not sign you in or connect the API by itself.';
+  }
+  // Do not retain OAuth response parameters in the visible URL or browser history.
+  if(location.search || location.hash)history.replaceState(null,'',location.pathname);
+})();
+</script>
+</body></html>
