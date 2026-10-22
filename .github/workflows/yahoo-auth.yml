@@ -1,0 +1,29 @@
+
+name: Yahoo Fantasy Authorization
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-credentials:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Yahoo credentials
+        env:
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          YAHOO_CLIENT_SECRET: ${{ secrets.YAHOO_CLIENT_SECRET }}
+        run: |
+          if [ -z "$YAHOO_CLIENT_ID" ]; then
+            echo "::error::Missing YAHOO_CLIENT_ID"
+            exit 1
+          fi
+
+          if [ -z "$YAHOO_CLIENT_SECRET" ]; then
+            echo "::error::Missing YAHOO_CLIENT_SECRET"
+            exit 1
+          fi
+
+          echo "Yahoo credentials are configured."
