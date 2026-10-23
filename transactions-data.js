@@ -1,5 +1,23 @@
 window.leagueTransactions=[
   {
+    "date": "2026-10-22 20:03",
+    "team": "Lakay xt16n",
+    "added": "Brook Lopez",
+    "dropped": "Jalen Smith"
+  },
+  {
+    "date": "2026-10-22 11:08",
+    "team": "Adobar91",
+    "added": null,
+    "dropped": "Anthony Black"
+  },
+  {
+    "date": "2026-10-22 01:09",
+    "team": "Philly in 3",
+    "added": "Nic Claxton",
+    "dropped": null
+  },
+  {
     "date": "2026-10-21 21:27",
     "team": "Strategist",
     "added": "Jaylon Tyson",
