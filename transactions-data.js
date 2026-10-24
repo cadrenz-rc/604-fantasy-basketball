@@ -1,5 +1,41 @@
 window.leagueTransactions=[
   {
+    "date": "2026-10-23 20:53",
+    "team": "GWA₱o",
+    "added": "Wendell Carter Jr.",
+    "dropped": "Jeremiah Fears"
+  },
+  {
+    "date": "2026-10-23 19:43",
+    "team": "Adobar91",
+    "added": "Duncan Robinson",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-23 19:43",
+    "team": "Adobar91",
+    "added": "Dennis Schröder",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-23 19:43",
+    "team": "Adobar91",
+    "added": null,
+    "dropped": "Tobias Harris"
+  },
+  {
+    "date": "2026-10-23 19:43",
+    "team": "Adobar91",
+    "added": null,
+    "dropped": "Miles Bridges"
+  },
+  {
+    "date": "2026-10-23 01:10",
+    "team": "#WEMB-VP",
+    "added": "AJ Dybantsa",
+    "dropped": "Dillon Brooks"
+  },
+  {
     "date": "2026-10-22 20:03",
     "team": "Lakay xt16n",
     "added": "Brook Lopez",
