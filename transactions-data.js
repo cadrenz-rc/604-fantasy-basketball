@@ -1,5 +1,53 @@
 window.leagueTransactions=[
   {
+    "date": "2026-10-24 17:01",
+    "team": "Neil’s Swell Team",
+    "added": "Andrew Wiggins",
+    "dropped": "Draymond Green"
+  },
+  {
+    "date": "2026-10-24 16:07",
+    "team": "Adobar91",
+    "added": "Jaxson Hayes",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-24 14:45",
+    "team": "Jthrust",
+    "added": "Grayson Allen",
+    "dropped": "Bennedict Mathurin"
+  },
+  {
+    "date": "2026-10-24 13:31",
+    "team": "GWA₱o",
+    "added": "Paul Reed",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-24 12:34",
+    "team": "Philly in 3",
+    "added": "Naji Marshall",
+    "dropped": "Aaron Nesmith"
+  },
+  {
+    "date": "2026-10-24 12:17",
+    "team": "#WEMB-VP",
+    "added": "P.J. Washington",
+    "dropped": "Jared McCain"
+  },
+  {
+    "date": "2026-10-24 11:04",
+    "team": "Lakay xt16n",
+    "added": "Zaccharie Risacher",
+    "dropped": "Isaiah Hartenstein"
+  },
+  {
+    "date": "2026-10-24 10:07",
+    "team": "#WEMB-VP",
+    "added": "Egor Dëmin",
+    "dropped": null
+  },
+  {
     "date": "2026-10-23 20:53",
     "team": "GWA₱o",
     "added": "Wendell Carter Jr.",
