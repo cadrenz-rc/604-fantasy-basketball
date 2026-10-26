@@ -1,5 +1,41 @@
 window.leagueTransactions=[
   {
+    "date": "2026-10-25 16:00",
+    "team": "Strategist",
+    "added": "Devin Vassell",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-25 15:21",
+    "team": "LA Pampanga",
+    "added": "Anthony Black",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-25 13:13",
+    "team": "Neil’s Swell Team",
+    "added": "Adem Bona",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-25 11:55",
+    "team": "Money Back Guaranteed",
+    "added": null,
+    "dropped": "Gui Santos"
+  },
+  {
+    "date": "2026-10-25 11:39",
+    "team": "Strategist",
+    "added": "Precious Achiuwa",
+    "dropped": "Jaylon Tyson"
+  },
+  {
+    "date": "2026-10-25 06:03",
+    "team": "Strategist",
+    "added": "Obi Toppin",
+    "dropped": "DeMar DeRozan"
+  },
+  {
     "date": "2026-10-24 17:01",
     "team": "Neil’s Swell Team",
     "added": "Andrew Wiggins",
@@ -32,7 +68,7 @@ window.leagueTransactions=[
   {
     "date": "2026-10-24 12:17",
     "team": "#WEMB-VP",
-    "added": "P.J. Washington",
+    "added": "PJ Washington",
     "dropped": "Jared McCain"
   },
   {

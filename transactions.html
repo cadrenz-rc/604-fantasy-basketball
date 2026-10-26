@@ -50,6 +50,23 @@ header nav.dash-nav a:hover,.dash-subnav a:hover{background:#24334c;color:#fff}
 @media(max-width:750px){.v20-daily .cards,.v20-matchups{grid-template-columns:1fr}.v20-leaderboard th,.v20-leaderboard td{padding:9px 6px}}
 </style><style>
 #floating-merch{position:fixed;right:18px;bottom:22px;z-index:9999;display:flex;align-items:center;gap:6px;padding:8px 10px;border:1px solid #f5ca65;background:#172943;color:#fff;border-radius:40px;box-shadow:0 6px 22px #0008;font:700 13px system-ui,sans-serif}#floating-merch a{color:#f5ca65;text-decoration:none;padding:5px 3px}#floating-merch button{background:transparent;color:#d4ddec;border:none;cursor:pointer;font-size:17px} @media(max-width:600px){#floating-merch{right:10px;bottom:84px;padding:6px 9px;font-size:12px}}
+</style><style>
+/* The 604 League — Filipino–Canadian colourway */
+:root{--ph-blue:#0038A8;--ph-red:#CE1126;--ph-gold:#FCD116;--canada-red:#D80621}
+body{background:#090e1a!important}
+header{border-top:4px solid var(--ph-blue)!important;border-bottom:2px solid var(--ph-red)!important}
+header .logo,header .logo a{color:#fff!important;text-decoration:none}
+header .logo::before{content:'✦';color:var(--ph-gold);padding-right:8px}
+.hero{background:radial-gradient(circle at 88% 15%,rgba(0,56,168,.42),transparent 51%),linear-gradient(125deg,#132548,#111523)!important;border-left:4px solid var(--ph-blue)!important}
+.hero h1 span,.eyebrow,.dash-eyebrow{color:var(--ph-gold)!important}
+.button,.v20-btn,.dash-award small{background:var(--ph-gold);color:#101727}
+nav a:hover,.dash-nav a:hover,.dash-nav a.active,.dash-nav a[aria-current='page']{color:var(--ph-gold)!important}
+.card,.panel,.dash-tile{border-top:2px solid rgba(0,56,168,.75)!important}
+.stat b,.v203-score{color:var(--ph-gold)!important}
+a:focus-visible,button:focus-visible{outline:3px solid var(--ph-gold);outline-offset:3px}
+#floating-merch a{background:var(--ph-red)!important;color:#fff!important;border:1px solid var(--ph-gold)!important}
+footer{border-top:2px solid var(--ph-blue)}
+footer::after{content:'  •  Filipino roots, Canadian home';color:#e9bfc5;font-size:.82rem}
 </style></head><body><header><div class="logo"><a href="index.html">THE 604 FANTASY DRAFT</a></div><nav aria-label="Primary navigation" class="dash-nav"><a class="" href="index.html"><span aria-hidden="true" class="dash-icon">⌂</span>Home</a><a class="" href="teams.html"><span aria-hidden="true" class="dash-icon">♟</span>Teams</a><a class="" href="power-rankings.html"><span aria-hidden="true" class="dash-icon">▥</span>Rankings</a><a class="" href="daily-awards.html"><span aria-hidden="true" class="dash-icon">▤</span>League News</a><a aria-current="page" class="active" href="trade-centre.html"><span aria-hidden="true" class="dash-icon">⇄</span>Trade Centre</a></nav></header><div aria-label="Section navigation" class="dash-subnav"><a href="trade-centre.html">Trade Centre</a><a aria-current="page" class="active" href="transactions.html">Transactions</a></div><main><section class="section" id="transactions"><div class="eyebrow">Yahoo roster activity · Manual archive</div><h2>League Transactions</h2><p class="muted">Manual Yahoo transaction archive through October 23, 2026. These are completed add/drop records, not proposed Trade Centre offers. Original draft selections are preserved separately.</p><div class="panel"><label for="txTeam">Filter by team</label> <select id="txTeam"><option value="all">All teams</option></select><p class="muted" id="txCount"></p><div id="txFeed"></div></div><p class="muted">Jared McCain’s October 19 addition to #WEMB-VP is included using the confirmed 6:20 PM timestamp.</p></section></main><footer>The 604 Fantasy Draft · 2026–27 · Independent fantasy league fan site · Not affiliated with Yahoo or the NBA.<span class="privacy-controls"> <button id="privacy-settings" type="button">Analytics preferences</button></span><a href="https://www.facebook.com/share/1JTp1N1ndg/" rel="noopener noreferrer" style="color:#f7cc6b;text-decoration:none;margin-left:8px" target="_blank"> · 604 League Merch</a></footer><script src="transactions-data.js"></script><script>
 (function(){
  const rows=window.leagueTransactions||[];
