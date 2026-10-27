@@ -1,0 +1,1 @@
+Version 28 – homepage welcome video. Upload all files to GitHub repository root, including league-welcome.mp4. Auto-plays muted on first homepage visit per browser tab; dismissible, replayable, sound toggle. Existing site content preserved from Version 27.
