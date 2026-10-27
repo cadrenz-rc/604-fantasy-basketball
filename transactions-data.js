@@ -1,5 +1,89 @@
 window.leagueTransactions=[
   {
+    "date": "2026-10-26 18:59",
+    "team": "Adobar91",
+    "added": "Daniss Jenkins",
+    "dropped": "RJ Barrett"
+  },
+  {
+    "date": "2026-10-26 17:01",
+    "team": "Strategist",
+    "added": null,
+    "dropped": "Obi Toppin"
+  },
+  {
+    "date": "2026-10-26 16:17",
+    "team": "Neil’s Swell Team",
+    "added": null,
+    "dropped": "Cason Wallace"
+  },
+  {
+    "date": "2026-10-26 15:14",
+    "team": "#WEMB-VP",
+    "added": "Jared McCain",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-26 13:36",
+    "team": "Philly in 3",
+    "added": "Ziaire Williams",
+    "dropped": "Naji Marshall"
+  },
+  {
+    "date": "2026-10-26 11:47",
+    "team": "gamefaceon",
+    "added": "Derrick Jones Jr.",
+    "dropped": "Quentin Grimes"
+  },
+  {
+    "date": "2026-10-26 11:46",
+    "team": "gamefaceon",
+    "added": "Jay Huff",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-26 10:22",
+    "team": "#WEMB-VP",
+    "added": null,
+    "dropped": "PJ Washington"
+  },
+  {
+    "date": "2026-10-26 09:48",
+    "team": "Philly in 3",
+    "added": "Draymond Green",
+    "dropped": "Cameron Johnson"
+  },
+  {
+    "date": "2026-10-26 06:19",
+    "team": "LA Pampanga",
+    "added": "Jaylen Wells",
+    "dropped": "Jakob Poeltl"
+  },
+  {
+    "date": "2026-10-26 01:18",
+    "team": "GWA₱o",
+    "added": "Isaiah Hartenstein",
+    "dropped": "Paul Reed"
+  },
+  {
+    "date": "2026-10-26 00:16",
+    "team": "Neil’s Swell Team",
+    "added": "Jalen Smith",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-26 00:12",
+    "team": "Neil’s Swell Team",
+    "added": "Kyle Kuzma",
+    "dropped": "Rui Hachimura"
+  },
+  {
+    "date": "2026-10-26 00:09",
+    "team": "Neil’s Swell Team",
+    "added": null,
+    "dropped": "Adem Bona"
+  },
+  {
     "date": "2026-10-25 16:00",
     "team": "Strategist",
     "added": "Devin Vassell",
