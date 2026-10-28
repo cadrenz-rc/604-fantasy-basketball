@@ -1,5 +1,47 @@
 window.leagueTransactions=[
   {
+    "date": "2026-10-27 18:51",
+    "team": "Neil’s Swell Team",
+    "added": "Terrence Shannon Jr.",
+    "dropped": "Jerami Grant"
+  },
+  {
+    "date": "2026-10-27 16:22",
+    "team": "Strategist",
+    "added": "Keon Ellis",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-27 12:28",
+    "team": "Strategist",
+    "added": "Robert Williams III",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-27 08:54",
+    "team": "Neil’s Swell Team",
+    "added": "Jrue Holiday",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-27 08:53",
+    "team": "Tree Planters",
+    "added": "Julian Champagnie",
+    "dropped": "Alex Caruso"
+  },
+  {
+    "date": "2026-10-27 05:04",
+    "team": "LA Pampanga",
+    "added": "Amari Bailey",
+    "dropped": "Jaylen Wells"
+  },
+  {
+    "date": "2026-10-27 04:58",
+    "team": "Adobar91",
+    "added": "Kris Dunn",
+    "dropped": "Dennis Schröder"
+  },
+  {
     "date": "2026-10-26 18:59",
     "team": "Adobar91",
     "added": "Daniss Jenkins",
