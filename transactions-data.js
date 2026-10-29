@@ -1,5 +1,35 @@
 window.leagueTransactions=[
   {
+    "date": "2026-10-28 19:11",
+    "team": "Philly in 3",
+    "added": "Matisse Thybulle",
+    "dropped": "Ziaire Williams"
+  },
+  {
+    "date": "2026-10-28 08:15",
+    "team": "GWA₱o",
+    "added": "Tari Eason",
+    "dropped": "Day'Ron Sharpe"
+  },
+  {
+    "date": "2026-10-28 07:39",
+    "team": "Lakay xt16n",
+    "added": "Ja'Kobe Walter",
+    "dropped": "Zaccharie Risacher"
+  },
+  {
+    "date": "2026-10-28 07:09",
+    "team": "#WEMB-VP",
+    "added": "Paul Reed",
+    "dropped": "Egor Dëmin"
+  },
+  {
+    "date": "2026-10-28 01:16",
+    "team": "Strategist",
+    "added": "RJ Barrett",
+    "dropped": "Devin Vassell"
+  },
+  {
     "date": "2026-10-27 18:51",
     "team": "Neil’s Swell Team",
     "added": "Terrence Shannon Jr.",
