@@ -1,0 +1,1 @@
+Version 34 — October 29 awards. Stud Cameron Boozer (Philly in 3); Dud Damian Lillard (Jthrust). Retains October 28 archived awards, previous features and merchandise welcome video. Yahoo results as supplied; editorial selections only. Existing Firebase and OAuth files in GitHub should remain untouched.
