@@ -1,5 +1,41 @@
 window.leagueTransactions=[
   {
+    "date": "2026-10-31 21:38",
+    "team": "Philly in 3",
+    "added": "De'Anthony Melton",
+    "dropped": "Draymond Green"
+  },
+  {
+    "date": "2026-10-31 16:25",
+    "team": "Tree Planters",
+    "added": "Joan Beringer",
+    "dropped": "Pelle Larsson"
+  },
+  {
+    "date": "2026-10-31 15:35",
+    "team": "Coach Carter's Bench Players",
+    "added": "Aday Mara",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-31 14:30",
+    "team": "Money Back Guaranteed",
+    "added": null,
+    "dropped": "Dillon Brooks"
+  },
+  {
+    "date": "2026-10-31 13:26",
+    "team": "LA Pampanga",
+    "added": "Dennis Schröder",
+    "dropped": "Ace Bailey"
+  },
+  {
+    "date": "2026-10-31 12:44",
+    "team": "Lakay xt16n",
+    "added": "Anfernee Simons",
+    "dropped": "Ja'Kobe Walter"
+  },
+  {
     "date": "2026-10-31 00:05",
     "team": "Money Back Guaranteed",
     "added": "De'Andre Hunter",
