@@ -1,5 +1,65 @@
 window.leagueTransactions=[
   {
+    "date": "2026-10-31 00:05",
+    "team": "Money Back Guaranteed",
+    "added": "De'Andre Hunter",
+    "dropped": "PJ Washington"
+  },
+  {
+    "date": "2026-10-30 14:55",
+    "team": "Money Back Guaranteed",
+    "added": "Dillon Brooks",
+    "dropped": "Jaylen Wells"
+  },
+  {
+    "date": "2026-10-30 14:51",
+    "team": "Money Back Guaranteed",
+    "added": "PJ Washington",
+    "dropped": null
+  },
+  {
+    "date": "2026-10-30 08:00",
+    "team": "Jthrust",
+    "added": "Miles Bridges",
+    "dropped": "Grayson Allen"
+  },
+  {
+    "date": "2026-10-30 01:20",
+    "team": "Adobar91",
+    "added": "Ziaire Williams",
+    "dropped": "Duncan Robinson"
+  },
+  {
+    "date": "2026-10-29 23:39",
+    "team": "Tree Planters",
+    "added": "Pelle Larsson",
+    "dropped": "Julian Champagnie"
+  },
+  {
+    "date": "2026-10-29 18:41",
+    "team": "Strategist",
+    "added": "Cam Spencer",
+    "dropped": "Keon Ellis"
+  },
+  {
+    "date": "2026-10-29 16:36",
+    "team": "Lakay xt16n",
+    "added": "Daniel Gafford",
+    "dropped": "Brook Lopez"
+  },
+  {
+    "date": "2026-10-29 11:01",
+    "team": "Money Back Guaranteed",
+    "added": "Jaylen Wells",
+    "dropped": "Christian Braun"
+  },
+  {
+    "date": "2026-10-29 01:24",
+    "team": "Coach Carter's Bench Players",
+    "added": "Alex Caruso",
+    "dropped": null
+  },
+  {
     "date": "2026-10-28 19:11",
     "team": "Philly in 3",
     "added": "Matisse Thybulle",
