@@ -1,12 +1,8 @@
-THE 604 LEAGUE — v36.2 UPLOAD-ONLY PATCH
+VERSION 36.3 - UPLOAD ONLY
+Upload all 6 website files from this zip to the ROOT of the GitHub Pages repository and REPLACE existing files. Do not upload the enclosing folder.
 
-Upload these three files to the ROOT of your existing GitHub Pages repository, replacing existing files:
-  index.html
-  daily-awards.html
-  transactions-data.js
+Files: index.html, daily-awards.html, transactions.html, teams.html, player-history.html, transactions-data.js
 
-Do not delete any other repository files. The other pages automatically use transactions-data.js.
+Includes 85 recorded transactions; 76 pickups. Homepage newest events refreshed, transaction-dependent page cache busting. Jared McCain Dud listed without a lineup-confirmation or pending label.
 
-Changes: 6 new October 31 Yahoo transactions (85 recorded events, 76 pickups); Jared McCain October 31 Dud remains provisional pending lineup verification. Portrait corrected in previous v36.1. Merchandise intro video remains untouched.
-
-Base version: v36.1; if your live website is older, upload the FULL v36.1 package first, then this patch.
+Commit to main. After deployment, hard-refresh the website/browser if it still displays old cached content.
