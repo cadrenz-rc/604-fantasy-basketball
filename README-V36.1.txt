@@ -1,0 +1,1 @@
+Version 36.1: Corrected Jared McCain portrait ID from Cade Cunningham (1630595) to Jared McCain (1642272) in homepage and awards. October 31 Dud award confirmed as Yahoo active starter. Wembanyama starter status remains unconfirmed. Other Version 36 features retained.
