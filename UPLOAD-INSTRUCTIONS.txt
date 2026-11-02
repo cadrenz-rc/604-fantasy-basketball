@@ -1,9 +1,2 @@
-THE 604 LEAGUE — V38 WEEK 3 / OFFICIAL WEEK 2
-
-Upload the HTML files in this ZIP to the ROOT of your GitHub repository, replacing same-named files. Do not upload the parent folder.
-
-Files changed: index.html, matchup-previews.html, weekly-recaps.html, daily-awards.html, teams.html.
-
-Week 2 is official; Week 3 matchups are 0–0. Immanuel Quickley Dud owner: LA Pampanga.
-
-Other files (intro video, assets, Firebase Trade Centre, CNAME, transactions-data.js) are unchanged and should remain in GitHub.
+The 604 League v38.1 — Power Rankings correction
+Upload power-rankings.html to the ROOT of cadrenz-rc/604-fantasy-basketball on GitHub, replacing the old file. Version 38 must already be uploaded to have matching Week 3 homepage/matchups. Preserve all other files.
