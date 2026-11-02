@@ -1,8 +1,9 @@
-VERSION 36.3 - UPLOAD ONLY
-Upload all 6 website files from this zip to the ROOT of the GitHub Pages repository and REPLACE existing files. Do not upload the enclosing folder.
+THE 604 LEAGUE — V38 WEEK 3 / OFFICIAL WEEK 2
 
-Files: index.html, daily-awards.html, transactions.html, teams.html, player-history.html, transactions-data.js
+Upload the HTML files in this ZIP to the ROOT of your GitHub repository, replacing same-named files. Do not upload the parent folder.
 
-Includes 85 recorded transactions; 76 pickups. Homepage newest events refreshed, transaction-dependent page cache busting. Jared McCain Dud listed without a lineup-confirmation or pending label.
+Files changed: index.html, matchup-previews.html, weekly-recaps.html, daily-awards.html, teams.html.
 
-Commit to main. After deployment, hard-refresh the website/browser if it still displays old cached content.
+Week 2 is official; Week 3 matchups are 0–0. Immanuel Quickley Dud owner: LA Pampanga.
+
+Other files (intro video, assets, Firebase Trade Centre, CNAME, transactions-data.js) are unchanged and should remain in GitHub.
