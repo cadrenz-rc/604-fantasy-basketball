@@ -1,2 +1,4 @@
-The 604 League v38.1 — Power Rankings correction
-Upload power-rankings.html to the ROOT of cadrenz-rc/604-fantasy-basketball on GitHub, replacing the old file. Version 38 must already be uploaded to have matching Week 3 homepage/matchups. Preserve all other files.
+The 604 League v39.1 — November 2 award correction
+Upload only index.html and daily-awards.html to the GitHub repository root, replacing existing files.
+Stud: Luka Dončić (gamefaceon). Dud: Derrick White (gamefaceon).
+Other site files, intro video, and transactions remain unchanged.
