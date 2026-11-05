@@ -1,15 +1,6 @@
-THE 604 LEAGUE · VERSION 40 · UPLOAD-ONLY
+The 604 League V40.1 — Clickable homepage counters
 
-Upload these 13 files to the ROOT of the existing GitHub Pages repository, replacing the same-named files. Do not delete existing files.
-Preserves: league-welcome.mp4, league-logo.png, firebase-config.js, trade-centre.js, oauth-callback.html, and other existing assets.
-
-Changes:
-- Nov 4 editorial award choices: Victor Wembanyama (TribuWakwak) / Brandon Miller (TribuWakwak). Not independently box-score/lineup verified.
-- New Standings tab, Week 3 navigation, and rearranged homepage (Week 2 followed immediately by Week 3).
-- Official Week 1/2 category standings; five teams tied at 11-7, no Yahoo tiebreaker invented.
-- 107 recorded waiver/add/drop events and 93 free-agent pickups.
-- One separately recorded Nov 4 trade: Philly in 3 sends Turner and Larsson; gamefaceon sends Buzelis.
-- All nav items point to functional pages on existing repository, 14-team layouts retained.
-- Mobile horizontal-scroll navigation.
-
-The domain the604league.com is not active unless it is purchased and DNS configured. Current GitHub Pages address continues to work.
+Upload BOTH HTML files to the ROOT of your existing GitHub repository, replacing index.html.
+- index.html: 14 league teams links to teams.html; 9 categories links to scoring-categories.html
+- scoring-categories.html: new explanation page
+Do not delete any existing website files.
