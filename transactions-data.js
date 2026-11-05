@@ -1,5 +1,137 @@
 window.leagueTransactions=[
   {
+    "date": "2026-11-04 21:07",
+    "team": "Strategist",
+    "added": "Khaman Maluach",
+    "dropped": null
+  },
+  {
+    "date": "2026-11-04 21:06",
+    "team": "Strategist",
+    "added": null,
+    "dropped": "Robert Williams III"
+  },
+  {
+    "date": "2026-11-04 21:01",
+    "team": "Lakay xt16n",
+    "added": "Zach Edey",
+    "dropped": "Jakob Poeltl"
+  },
+  {
+    "date": "2026-11-04 06:29",
+    "team": "Philly in 3",
+    "added": "Tristan da Silva",
+    "dropped": null
+  },
+  {
+    "date": "2026-11-04 02:23",
+    "team": "gamefaceon",
+    "added": null,
+    "dropped": "Jay Huff"
+  },
+  {
+    "date": "2026-11-03 18:16",
+    "team": "Money Back Guaranteed",
+    "added": null,
+    "dropped": "De'Andre Hunter"
+  },
+  {
+    "date": "2026-11-03 14:59",
+    "team": "Tree Planters",
+    "added": "Draymond Green",
+    "dropped": "Ace Bailey"
+  },
+  {
+    "date": "2026-11-03 06:14",
+    "team": "Neil😎",
+    "added": "Duncan Robinson",
+    "dropped": null
+  },
+  {
+    "date": "2026-11-02 16:23",
+    "team": "LA Pampanga",
+    "added": "Dillon Brooks",
+    "dropped": null
+  },
+  {
+    "date": "2026-11-02 13:08",
+    "team": "Tree Planters",
+    "added": "Ace Bailey",
+    "dropped": "Brandon Williams"
+  },
+  {
+    "date": "2026-11-02 03:37",
+    "team": "LA Pampanga",
+    "added": null,
+    "dropped": "Jalen Williams"
+  },
+  {
+    "date": "2026-11-02 03:35",
+    "team": "LA Pampanga",
+    "added": "Bobby Portis Jr.",
+    "dropped": "Jamal Shead"
+  },
+  {
+    "date": "2026-11-02 02:30",
+    "team": "Philly in 3",
+    "added": "Pelle Larsson",
+    "dropped": "Matisse Thybulle"
+  },
+  {
+    "date": "2026-11-02 02:30",
+    "team": "Adobar91",
+    "added": "PJ Washington",
+    "dropped": "Daniss Jenkins"
+  },
+  {
+    "date": "2026-11-02 01:12",
+    "team": "Neil😎",
+    "added": "Devin Vassell",
+    "dropped": "Andrew Wiggins"
+  },
+  {
+    "date": "2026-11-02 01:08",
+    "team": "Neil😎",
+    "added": "Christian Braun",
+    "dropped": "Terrence Shannon Jr."
+  },
+  {
+    "date": "2026-11-02 01:02",
+    "team": "Lakay xt16n",
+    "added": "Zaccharie Risacher",
+    "dropped": "Zach Edey"
+  },
+  {
+    "date": "2026-11-01 22:27",
+    "team": "GWA₱o",
+    "added": "Jeremiah Fears",
+    "dropped": "Tari Eason"
+  },
+  {
+    "date": "2026-11-01 18:28",
+    "team": "Tree Planters",
+    "added": "Brandon Williams",
+    "dropped": "Joan Beringer"
+  },
+  {
+    "date": "2026-11-01 17:28",
+    "team": "LA Pampanga",
+    "added": "Jamal Shead",
+    "dropped": "Dennis Schröder"
+  },
+  {
+    "date": "2026-11-01 17:19",
+    "team": "Coach Carter's Bench Players",
+    "added": null,
+    "dropped": "Aday Mara"
+  },
+  {
+    "date": "2026-11-01 10:57",
+    "team": "Lakay xt16n",
+    "added": "Jakob Poeltl",
+    "dropped": "Anfernee Simons"
+  },
+  {
     "date": "2026-10-31 21:38",
     "team": "Philly in 3",
     "added": "De'Anthony Melton",
@@ -508,5 +640,20 @@ window.leagueTransactions=[
     "team": "Tree Planters",
     "added": "Ajay Mitchell",
     "dropped": null
+  }
+];
+
+window.leagueTrades=[
+  {
+    "date": "2026-11-04 02:23",
+    "teamA": "Philly in 3",
+    "teamB": "gamefaceon",
+    "teamA_sends": [
+      "Myles Turner",
+      "Pelle Larsson"
+    ],
+    "teamB_sends": [
+      "Matas Buzelis"
+    ]
   }
 ];
