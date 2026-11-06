@@ -1,18 +1,4 @@
-THE 604 LEAGUE — VERSION 41 / TRADE HUB — PATCH
-
-Upload these six files to the ROOT of cadrenz-rc/604-fantasy-basketball, replacing matching files:
-- trade-centre.html
-- transactions-data.js
-- player-history.html
-- transactions.html
-- index.html
-
-Do not upload the enclosing folder. Keep trade-centre.js and firebase-config.js untouched.
-Existing Trade Centre Firebase login, listing IDs and external scripts are preserved.
-
-Source: manually supplied Yahoo transaction screenshots through November 6, 2026.
-115 add/drop events; 100 player pickups; 2 completed trades.
-Trade acquisitions do NOT count as waiver pickups. Yahoo remains source of truth.
-Trade Feed and History are read-only, populated from transactions-data.js.
-Trade proposals and trading block continue to rely on existing Firebase scripts and rules.
-No new authenticated Firebase trade-discussion feature is introduced.
+The 604 League Version 41.1 — November 5 awards correction
+Upload index.html and daily-awards.html to the root of the existing GitHub repository, replacing the matching files.
+This patch is based on Version 41 and preserves Trade Hub and all other files.
+November 5 Stud: Stephen Curry (TribuWakwak). Dud: Nikola Vučević (Strategist).
