@@ -1,5 +1,53 @@
 window.leagueTransactions=[
   {
+    "date": "2026-11-06 11:29",
+    "team": "Tree Planters",
+    "added": "Ace Bailey",
+    "dropped": "Moussa Diabaté"
+  },
+  {
+    "date": "2026-11-06 07:28",
+    "team": "LA Pampanga",
+    "added": "Aday Mara",
+    "dropped": "Bobby Portis Jr."
+  },
+  {
+    "date": "2026-11-06 07:02",
+    "team": "Lakay xt16n",
+    "added": "Grayson Allen",
+    "dropped": "Jalen Green"
+  },
+  {
+    "date": "2026-11-06 06:49",
+    "team": "Lakay xt16n",
+    "added": null,
+    "dropped": "Zaccharie Risacher"
+  },
+  {
+    "date": "2026-11-06 06:14",
+    "team": "Philly in 3",
+    "added": "Andrew Wiggins",
+    "dropped": "De'Anthony Melton"
+  },
+  {
+    "date": "2026-11-05 22:58",
+    "team": "TribuWakwak",
+    "added": "Saddiq Bey",
+    "dropped": "Sandro Mamukelashvili"
+  },
+  {
+    "date": "2026-11-05 18:09",
+    "team": "Strategist",
+    "added": "Nikola Vučević",
+    "dropped": "Cam Spencer"
+  },
+  {
+    "date": "2026-11-05 11:24",
+    "team": "Adobar91",
+    "added": "Tari Eason",
+    "dropped": "PJ Washington"
+  },
+  {
     "date": "2026-11-04 21:07",
     "team": "Strategist",
     "added": "Khaman Maluach",
@@ -642,8 +690,19 @@ window.leagueTransactions=[
     "dropped": null
   }
 ];
-
 window.leagueTrades=[
+  {
+    "date": "2026-11-05 02:21",
+    "teamA": "LA Pampanga",
+    "teamB": "Money Back Guaranteed",
+    "teamA_sends": [
+      "Dillon Brooks",
+      "Naz Reid"
+    ],
+    "teamB_sends": [
+      "Cedric Coward"
+    ]
+  },
   {
     "date": "2026-11-04 02:23",
     "teamA": "Philly in 3",

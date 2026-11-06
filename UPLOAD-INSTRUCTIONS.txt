@@ -1,6 +1,18 @@
-The 604 League V40.1 — Clickable homepage counters
+THE 604 LEAGUE — VERSION 41 / TRADE HUB — PATCH
 
-Upload BOTH HTML files to the ROOT of your existing GitHub repository, replacing index.html.
-- index.html: 14 league teams links to teams.html; 9 categories links to scoring-categories.html
-- scoring-categories.html: new explanation page
-Do not delete any existing website files.
+Upload these six files to the ROOT of cadrenz-rc/604-fantasy-basketball, replacing matching files:
+- trade-centre.html
+- transactions-data.js
+- player-history.html
+- transactions.html
+- index.html
+
+Do not upload the enclosing folder. Keep trade-centre.js and firebase-config.js untouched.
+Existing Trade Centre Firebase login, listing IDs and external scripts are preserved.
+
+Source: manually supplied Yahoo transaction screenshots through November 6, 2026.
+115 add/drop events; 100 player pickups; 2 completed trades.
+Trade acquisitions do NOT count as waiver pickups. Yahoo remains source of truth.
+Trade Feed and History are read-only, populated from transactions-data.js.
+Trade proposals and trading block continue to rely on existing Firebase scripts and rules.
+No new authenticated Firebase trade-discussion feature is introduced.
