@@ -1,5 +1,59 @@
 window.leagueTransactions=[
   {
+    "date": "2026-11-07 17:02",
+    "team": "Strategist",
+    "added": "Rui Hachimura",
+    "dropped": "Ja’Kobe Walter"
+  },
+  {
+    "date": "2026-11-07 14:11",
+    "team": "Money Back Guaranteed",
+    "added": "Nolan Traoré",
+    "dropped": null
+  },
+  {
+    "date": "2026-11-07 14:11",
+    "team": "Money Back Guaranteed",
+    "added": null,
+    "dropped": "Robert Williams III"
+  },
+  {
+    "date": "2026-11-07 07:22",
+    "team": "Money Back Guaranteed",
+    "added": "Luguentz Dort",
+    "dropped": "Dillon Brooks"
+  },
+  {
+    "date": "2026-11-07 07:00",
+    "team": "Lakay xt16n",
+    "added": "Kingston Flemings",
+    "dropped": "Grayson Allen"
+  },
+  {
+    "date": "2026-11-07 02:21",
+    "team": "GWA₱o",
+    "added": "PJ Washington",
+    "dropped": "Kel'el Ware"
+  },
+  {
+    "date": "2026-11-06 21:09",
+    "team": "Tree Planters",
+    "added": "Day'Ron Sharpe",
+    "dropped": "Draymond Green"
+  },
+  {
+    "date": "2026-11-06 19:39",
+    "team": "#WEMB-VP",
+    "added": null,
+    "dropped": "Paul Reed"
+  },
+  {
+    "date": "2026-11-06 17:02",
+    "team": "Money Back Guaranteed",
+    "added": "Robert Williams III",
+    "dropped": null
+  },
+  {
     "date": "2026-11-06 11:29",
     "team": "Tree Planters",
     "added": "Ace Bailey",
