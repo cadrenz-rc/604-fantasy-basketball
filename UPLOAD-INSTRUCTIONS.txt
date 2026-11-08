@@ -1,22 +1,7 @@
-THE 604 LEAGUE — VERSION 42 · UPLOAD-ONLY UPDATE
+The 604 League v42.1 — Player History leaderboard fix
 
-Upload ALL 7 website files in this ZIP to the ROOT of GitHub repository:
-https://github.com/cadrenz-rc/604-fantasy-basketball
-Choose Add file > Upload files > Commit changes.
-Do not upload the enclosing folder.
+Upload ONLY player-history.html to the ROOT of your GitHub repository, replacing the current file.
 
-Changed:
-- index.html (Nov 7 award winners, inaugural Stream of the Night, removed Injury Watch, corrected 14 teams counter and current transaction count)
-- daily-awards.html (Nov 6 and Nov 7 winners; inaugural Stream award)
-- transactions-data.js (Nov 6–7 transactions from screenshots; deduplicated by date/team/add/drop)
-- transactions.html (cache refresh)
-- player-history.html (new most-picked-up/dropped leaderboard; cache refresh)
-- teams.html (cache refresh)
-- trade-centre.html (cache refresh; existing Firebase functionality unchanged)
-- weekly-recaps.html (remove old injury watch section)
+The updated player list now loads after transactions-data.js, shows all recorded players, defaults to Most Dropped, and allows sorting by Pickups, Drops, Total moves, or Player.
 
-NOTE: This package is based on the earlier v41.1 HTML and v41 transaction database; ensure v40/v41 assets remain in the repository. Do not delete your intro video, Firebase scripts, logo, or OAuth callback.
-
-The November 6/7 Stud and Dud selections are commissioner editorial decisions. The inaugural Stream award is credited to Day'Ron Sharpe / Tree Planters, acquired Nov 6, 9:09 PM. No unverified player stats have been published.
-
-Some photographed November 6 transactions were cropped; only fully visible entries were added. Counts represent the documented events, not necessarily all Yahoo events.
+No other website files need replacing.
