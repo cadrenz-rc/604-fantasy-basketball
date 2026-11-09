@@ -1,0 +1,10 @@
+The 604 League Version 45 — Reporter’s Desk
+
+Upload ONLY these three HTML files into the repository ROOT, replacing matching existing files:
+- index.html
+- matchup-previews.html
+- weekly-recaps.html
+
+Based on Version 44. All other files including Firebase, video, transactions, logos and standings stay unchanged.
+
+The Reporter’s Desk covers Week 3 official results and Week 4 editorial previews.
