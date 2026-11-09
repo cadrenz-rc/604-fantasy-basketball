@@ -1,5 +1,17 @@
 window.leagueTransactions=[
   {
+    "date": "2026-11-08 05:36",
+    "team": "Philly in 3",
+    "added": "Paul Reed",
+    "dropped": "Tristan da Silva"
+  },
+  {
+    "date": "2026-11-08 05:28",
+    "team": "Money Back Guaranteed",
+    "added": "Brook Lopez",
+    "dropped": "Luguentz Dort"
+  },
+  {
     "date": "2026-11-07 17:02",
     "team": "Strategist",
     "added": "Rui Hachimura",
