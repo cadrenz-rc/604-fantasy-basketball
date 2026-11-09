@@ -1,7 +1,13 @@
-The 604 League v42.1 — Player History leaderboard fix
+The 604 League — Version 44 · Official Week 3 Finals and Week 4 Matchups
 
-Upload ONLY player-history.html to the ROOT of your GitHub repository, replacing the current file.
+Upload these FIVE HTML files into the ROOT of the existing GitHub repository, replacing matching files:
+index.html
+standings.html
+matchup-previews.html
+weekly-recaps.html
+power-rankings.html
 
-The updated player list now loads after transactions-data.js, shows all recorded players, defaults to Most Dropped, and allows sorting by Pickups, Drops, Total moves, or Player.
-
-No other website files need replacing.
+Do not remove unchanged files: awards, transaction history, Firebase Trade Centre, images, intro video, or OAuth callback.
+Source: Yahoo Fantasy screenshots supplied November 8, 2026.
+Week 3 scores treated as official at commissioner request. Week 4 starts at 0–0.
+Cumulative records are computed from pre-Week 3 Yahoo W-L-T snapshot and Week 3 results; tied rankings are not presented as verified Yahoo rank order.
