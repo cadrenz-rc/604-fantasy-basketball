@@ -1,8 +1,12 @@
-The 604 League V46 — November 9 Daily Awards
+THE 604 LEAGUE — VERSION 47 UPLOAD-ONLY PATCH
 
-Extract, upload awards-data.js, index.html and daily-awards.html to the repository root, replacing matching files. Keep other repository files unchanged.
+Updates:
+- November 9 Stream of the Night: Jakob Poeltl (Tree Planters). No unverified stats added.
+- Adds six November 9-10 Yahoo transaction records (132 recorded events, 114 pickups).
+- Refreshes the data references on the homepage, Daily Awards, Player History, Teams, Transactions and Trade Centre.
+- Keeps November 9 Stud Victor Wembanyama and Dud Aaron Gordon unchanged.
 
-Stud: Victor Wembanyama (TribuWakwak), 40 PTS, 11 REB, 9 BLK.
-Dud: Aaron Gordon (Jthrust), 3 PTS, 1/6 FG, 3 TO.
+Upload ALL eight site files from this ZIP to the ROOT of cadrenz-rc/604-fantasy-basketball (overwrite files by name), then commit. Do not remove any other website files.
 
-Based on official November 9 NBA box scores; these are commissioner-selected editorial awards.
+Existing Firebase scripts, league welcome video, logo, OAuth callback, and historical pages remain unchanged.
+The website is not automatically deployed by this ZIP.

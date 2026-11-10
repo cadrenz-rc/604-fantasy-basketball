@@ -1,5 +1,41 @@
 window.leagueTransactions=[
   {
+    "date": "2026-11-10 05:27",
+    "team": "Philly in 3",
+    "added": "Brayden Burries",
+    "dropped": "Paul Reed"
+  },
+  {
+    "date": "2026-11-10 05:26",
+    "team": "Philly in 3",
+    "added": null,
+    "dropped": "Andrew Wiggins"
+  },
+  {
+    "date": "2026-11-09 16:17",
+    "team": "LA Pampanga",
+    "added": "Oso Ighodaro",
+    "dropped": "Naji Marshall"
+  },
+  {
+    "date": "2026-11-09 16:11",
+    "team": "Tree Planters",
+    "added": "Jakob Poeltl",
+    "dropped": "Day’Ron Sharpe"
+  },
+  {
+    "date": "2026-11-09 02:57",
+    "team": "GWA₱o",
+    "added": "Jalen Green",
+    "dropped": "Andrew Wiggins"
+  },
+  {
+    "date": "2026-11-09 02:25",
+    "team": "Lakay xt16n",
+    "added": "Dillon Brooks",
+    "dropped": null
+  },
+  {
     "date": "2026-11-08 05:36",
     "team": "Philly in 3",
     "added": "Paul Reed",

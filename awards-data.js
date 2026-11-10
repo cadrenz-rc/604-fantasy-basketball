@@ -281,5 +281,13 @@ window.leagueAwards=[
     "team": "Jthrust",
     "portraitId": 203932,
     "note": "3 PTS · 5 REB · 2 AST · 1/6 FG · 0 STL · 0 BLK · 3 TO. A quiet 30-minute outing with damaging shooting and turnovers, and little positive category production."
+  },
+  {
+    "date": "2026-11-09",
+    "type": "stream",
+    "player": "Jakob Poeltl",
+    "team": "Tree Planters",
+    "portraitId": 1627751,
+    "note": "Acquired November 9 at 4:11 PM. The commissioner’s Stream of the Night recognizes Tree Planters’ timely waiver pickup."
   }
 ];
