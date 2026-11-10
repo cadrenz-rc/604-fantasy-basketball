@@ -1,13 +1,8 @@
-The 604 League — Version 44 · Official Week 3 Finals and Week 4 Matchups
+The 604 League V46 — November 9 Daily Awards
 
-Upload these FIVE HTML files into the ROOT of the existing GitHub repository, replacing matching files:
-index.html
-standings.html
-matchup-previews.html
-weekly-recaps.html
-power-rankings.html
+Extract, upload awards-data.js, index.html and daily-awards.html to the repository root, replacing matching files. Keep other repository files unchanged.
 
-Do not remove unchanged files: awards, transaction history, Firebase Trade Centre, images, intro video, or OAuth callback.
-Source: Yahoo Fantasy screenshots supplied November 8, 2026.
-Week 3 scores treated as official at commissioner request. Week 4 starts at 0–0.
-Cumulative records are computed from pre-Week 3 Yahoo W-L-T snapshot and Week 3 results; tied rankings are not presented as verified Yahoo rank order.
+Stud: Victor Wembanyama (TribuWakwak), 40 PTS, 11 REB, 9 BLK.
+Dud: Aaron Gordon (Jthrust), 3 PTS, 1/6 FG, 3 TO.
+
+Based on official November 9 NBA box scores; these are commissioner-selected editorial awards.

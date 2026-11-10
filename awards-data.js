@@ -265,5 +265,21 @@ window.leagueAwards=[
     "team": "Money Back Guaranteed",
     "note": "Acquired November 8 at 5:28 AM",
     "portraitId": 201572
+  },
+  {
+    "date": "2026-11-09",
+    "type": "stud",
+    "player": "Victor Wembanyama",
+    "team": "TribuWakwak",
+    "portraitId": 1641705,
+    "note": "40 PTS · 11 REB · 9 BLK · 15/19 FG · 1 TO. Nine blocks in just 25 minutes nearly won the category single-handedly, while 40 points on 78.9% shooting made this a two-way takeover."
+  },
+  {
+    "date": "2026-11-09",
+    "type": "dud",
+    "player": "Aaron Gordon",
+    "team": "Jthrust",
+    "portraitId": 203932,
+    "note": "3 PTS · 5 REB · 2 AST · 1/6 FG · 0 STL · 0 BLK · 3 TO. A quiet 30-minute outing with damaging shooting and turnovers, and little positive category production."
   }
 ];
