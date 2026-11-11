@@ -1,5 +1,53 @@
 window.leagueTransactions=[
   {
+    "date": "2026-11-11 09:17",
+    "team": "Strategist",
+    "added": "Jamal Shead",
+    "dropped": "Precious Achiuwa"
+  },
+  {
+    "date": "2026-11-11 08:44",
+    "team": "Strategist",
+    "added": "Day'Ron Sharpe",
+    "dropped": "Khaman Maluach"
+  },
+  {
+    "date": "2026-11-11 01:34",
+    "team": "GWA₱o",
+    "added": "Daniss Jenkins",
+    "dropped": "Jalen Green"
+  },
+  {
+    "date": "2026-11-10 18:56",
+    "team": "Philly in 3",
+    "added": "Ryan Dunn",
+    "dropped": null
+  },
+  {
+    "date": "2026-11-10 15:38",
+    "team": "#WEMB-VP",
+    "added": "Kentavious Caldwell-Pope",
+    "dropped": null
+  },
+  {
+    "date": "2026-11-10 14:14",
+    "team": "Money Back Guaranteed",
+    "added": null,
+    "dropped": "Nolan Traoré"
+  },
+  {
+    "date": "2026-11-10 13:57",
+    "team": "Lakay xt16n",
+    "added": null,
+    "dropped": "Kingston Flemings"
+  },
+  {
+    "date": "2026-11-10 11:37",
+    "team": "Neil",
+    "added": "Grayson Allen",
+    "dropped": "CJ McCollum"
+  },
+  {
     "date": "2026-11-10 05:27",
     "team": "Philly in 3",
     "added": "Brayden Burries",

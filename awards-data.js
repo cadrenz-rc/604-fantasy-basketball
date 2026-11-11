@@ -289,5 +289,21 @@ window.leagueAwards=[
     "team": "Tree Planters",
     "portraitId": 1627751,
     "note": "Acquired November 9 at 4:11 PM. The commissioner’s Stream of the Night recognizes Tree Planters’ timely waiver pickup."
+  },
+  {
+    "date": "2026-11-10",
+    "type": "stud",
+    "player": "Paul George",
+    "team": "GWA₱o",
+    "portraitId": 202331,
+    "note": "Against his former team, George delivered a statement performance and earned the Stud of the Night spotlight."
+  },
+  {
+    "date": "2026-11-10",
+    "type": "dud",
+    "player": "Derrick White",
+    "team": "gamefaceon",
+    "portraitId": 1628401,
+    "note": "Only five points with no steals or blocks. His usual defensive-category production was missing, leaving little nine-category value."
   }
 ];

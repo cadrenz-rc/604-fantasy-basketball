@@ -1,12 +1,20 @@
-THE 604 LEAGUE — VERSION 47 UPLOAD-ONLY PATCH
+THE 604 LEAGUE — VERSION 48.4 | CONSOLIDATED UPLOAD-ONLY UPDATE
 
-Updates:
-- November 9 Stream of the Night: Jakob Poeltl (Tree Planters). No unverified stats added.
-- Adds six November 9-10 Yahoo transaction records (132 recorded events, 114 pickups).
-- Refreshes the data references on the homepage, Daily Awards, Player History, Teams, Transactions and Trade Centre.
-- Keeps November 9 Stud Victor Wembanyama and Dud Aaron Gordon unchanged.
+Includes ALL website fixes prepared on November 11, 2026:
+- Version 48: November 10 Stud (Paul George), Dud (Derrick White), no Stream award; November 10-11 transaction updates and refreshed Player History/GM counts.
+- Version 48.1: Teams page dated roster notice corrected and stale Weeks 1-2 results replaced with a current standings link/summary.
+- Version 48.2: Matchups page ordered with current Week 4 first and historical matchups archived.
+- Version 48.3: Standings page ordered with current season standings and Week 4 before historical results.
 
-Upload ALL eight site files from this ZIP to the ROOT of cadrenz-rc/604-fantasy-basketball (overwrite files by name), then commit. Do not remove any other website files.
+INSTALLATION
+1. Extract this ZIP.
+2. Open https://github.com/cadrenz-rc/604-fantasy-basketball/upload/main
+3. Upload ALL 10 HTML/JS files (not this README) at the repository ROOT. Replace matching files and commit to main.
+4. Wait for GitHub Pages deployment; then refresh the site. If cached files appear, refresh again or open in a private browser window.
 
-Existing Firebase scripts, league welcome video, logo, OAuth callback, and historical pages remain unchanged.
-The website is not automatically deployed by this ZIP.
+IMPORTANT
+- Based on Version 47/48 existing website files. Do not delete any existing files.
+- Leave the intro video, league-logo.png, firebase-config.js, trade-centre.js, OAuth callback, and other site files intact.
+- This package updates repository files only. It does not publish automatically.
+- If earlier versions 48.1, 48.2, or 48.3 were not uploaded, DO NOT upload them separately after this package. This consolidated set supersedes them.
+- HTML/ZIP checks are static; browser testing against the live deployment remains pending.
