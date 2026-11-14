@@ -1,6 +1,15 @@
-The 604 League v40.2 — November 5 Stud & Dud Leaders feature
+THE 604 LEAGUE · NOV 12–13 UPDATE · PARTIAL SOURCE PATCH
 
-Upload index.html and daily-awards.html to the root of cadrenz-rc/604-fantasy-basketball, replacing the existing files. Keep existing images, videos, scripts, and other HTML files. This patch assumes v40.1 was applied.
+This ZIP contains four files to upload to the repository ROOT, replacing the named files:
+  nov13-updates.js (NEW)
+  league-ui.js (REPLACE)
+  daily-awards.html (REPLACE)
+  teams.html (REPLACE)
 
-Home: adds featured Stud/Dud leaders and corrects summary figures.
-Daily Awards: reconciles manager totals from the award selections supplied in this conversation through November 4. Existing archive entries were not rewritten.
+It preserves the existing awards-data.js and transactions-data.js history and adds:
+Nov 12: Cade Cunningham / Jamal Shead / Paul Reed.
+Nov 13: Alperen Sengun / Draymond Green / Meleek Thomas.
+Eight Nov 12–13 add/drop transactions and the Giddey-Alexander-Walker trade.
+
+Home dashboard and Awards page will read the update. Teams transaction-adjusted roster will read the update.
+IMPORTANT: Transactions page / Trade Centre / Player History have NOT been rewritten yet because the full repository ZIP was not attached. For a complete website-wide update provide the single downloaded GitHub source ZIP. Do not remove existing repository files.
